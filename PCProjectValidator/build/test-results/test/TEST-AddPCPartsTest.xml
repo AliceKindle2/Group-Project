@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddPCPartsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-04-23T02:08:51.715Z" hostname="Alizas-Air.attlocal.net" time="0.015">
+  <properties/>
+  <testcase name="testAddPCPart_Exceptional_Null()" classname="AddPCPartsTest" time="0.012"/>
+  <testcase name="testAddPCPart_Valid()" classname="AddPCPartsTest" time="0.0"/>
+  <testcase name="testAddPCPart_Exceptional_ServerError()" classname="AddPCPartsTest" time="0.0"/>
+  <testcase name="testAddPCPart_Invalid()" classname="AddPCPartsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
